@@ -1,7 +1,7 @@
 from selenium import webdriver  # Used to control the browser
 import time                     # Used to pause the script
 
-                        # Create an instance of Chrome WebDriver
+# Create an instance of Chrome WebDriver
 d = webdriver.Chrome()  # Launch Chrome browser
 
 # Maximize the browser window
