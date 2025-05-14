@@ -12,7 +12,7 @@ import re
 # Configuration 
 # ------------------------ 
 GMAIL_USER = 'mallienturi+test2@gmail.com' 
-GMAIL_PASSWORD = 'osuk tbgc kdep tlxa'  # Use Gmail App Password (not real password)
+GMAIL_PASSWORD = 'osud tbcc kfep tlxe'  # Use Gmail App Password (not real password)
 
 # ------------------------ 
 # Function: Get OTP from Gmail 
